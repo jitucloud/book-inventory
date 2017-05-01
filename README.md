@@ -17,6 +17,7 @@
 # Run as Docker application
 	# Install docker deamon on the machine and go to Book-Inventory 
 	# docker run -d -p 5000:5000 .
+	# Now access the application on localhost:5000
 	# . means it will read instructions from .Dockerfile
 
 
